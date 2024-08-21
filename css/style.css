@@ -9,6 +9,9 @@
         max-width: 300px;
         margin: 16px;
         background-color: #fff;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
     
 }
 .btn-verde
